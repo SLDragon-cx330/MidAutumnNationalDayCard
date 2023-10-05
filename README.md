@@ -10,7 +10,7 @@
 
 ## 在线预览 🌐
 
-您可以在以下链接上在线预览本项目：[中秋国庆贺卡预览](https://sldragon-cx330.github.io/MidAutumnNationalDayCard/庆祝中秋与国庆.html)
+您可以在以下链接上在线预览本项目：[中秋国庆贺卡预览](https://github.com/SLDragon-cx330/MidAutumnNationalDayCard/庆祝中秋与国庆.html)
 
 ## 如何使用 🚀
 
